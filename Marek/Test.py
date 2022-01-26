@@ -2,5 +2,6 @@ print("Hello world")
 
 print(2+2)
 
+print('test')
 
-print('Test')
+print('Ole ist cool')
