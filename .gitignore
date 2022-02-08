@@ -1,5 +1,2 @@
 *.csv
-*.xlsx
-data\immo_data.csv
-Marek\Test Data\immo_data.csv
-Marek\TestData\
+Marek/Test Data
